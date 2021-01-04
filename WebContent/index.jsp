@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>신봉윤</title>
+    <title>신 봉 윤</title>
     <link rel="stylesheet" href="<%=application.getContextPath()%>/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/a99df0f94f.js" crossorigin="anonymous"></script>
